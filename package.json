@@ -1,0 +1,28 @@
+{
+  "name": "mern-with-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBasnet24/mern-with-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBasnet24/mern-with-next/issues"
+  },
+  "homepage": "https://github.com/SBasnet24/mern-with-next#readme"
+}
